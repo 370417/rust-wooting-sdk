@@ -14,6 +14,6 @@ edition = "2018"
 [dependencies]
 
 [build-dependencies]
-bindgen = "0.47.2"
+bindgen = "0.51.0"
 cc = { version = "1.0.29", features = [ "parallel" ] }
 pkg-config = "0.3.14"
